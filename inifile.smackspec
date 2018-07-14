@@ -1,0 +1,5 @@
+provides: inifile v0.1.0
+remote: git git://github.com/tkob/inifile.git
+description: INI file parser for Standard ML
+bug-url: https://github.com/tkob/inifile/issues
+license: MIT License
